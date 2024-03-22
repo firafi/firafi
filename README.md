@@ -1,15 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Firaol Motuma.
+#### Design and Devlopment
+![Design and Devlopment](https://th.bing.com/th/id/OIP.an3UpVWBSzZEUppIddV2lQHaBn?rs=1&pid=ImgDetMain)
 
-<!--
-**firafi/firafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am a dedicated full-stack developer and aspiring cloud practitioner. With a passion for both frontend and backend development, coupled with a growing interest in cloud technologies, I'm on a journey to create innovative solutions that leverage the power of the cloud.
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS / C# / Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on different projects. 
+- 🌱 I’m currently learning to be a Data analyst. 
+- ⚡ Fun fact: Despite being deeply immersed in the world of technology and coding, I have a secret passion for cars. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/firaol-motuma-89b08229a/)  
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
